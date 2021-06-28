@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/c00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c00/c00_fooswyn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c00/clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c01/bredwyn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c01/clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c01/jlamonic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c01/minell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c02/clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c02/clone1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c02/clone2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c02/clone3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c03/clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/clone2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eva/shell00_hmanilow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eva/shell00_jcanhand" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eva/shell_00_eabradol/intra-uuid-fa254de8-be9a-4a99-8105-5e9e26f85de8-3607640" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rush00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell00/clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell01/clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell01/clone1" vcs="Git" />
+  </component>
+</project>
